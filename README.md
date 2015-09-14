@@ -1,6 +1,9 @@
 # Cozy, Your Digital Home
 
+![Cozy Logo](https://raw.githubusercontent.com/cozy/cozy-setup/gh-pages/assets/images/happycloud.png)
+
 Cozy is an app-based personal cloud You can host at home.
+
 
 
 ## Install
