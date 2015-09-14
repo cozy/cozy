@@ -1,5 +1,7 @@
 # Cozy, Your Digital Home
 
+*A personal cloud you can hack, host and delete*
+
 ![Cozy Logo](https://raw.githubusercontent.com/cozy/cozy-setup/gh-pages/assets/images/happycloud.png)
 
 Cozy is an app-based personal cloud you can host at home. It allows you to turn
@@ -8,7 +10,7 @@ platform. It comes with common applications like a contact manager, a calendar,
 a webmail and a filebox. An Android app is provided. You can sync
 your contacts, calendars and files with your mobile. Last but not least, the
 community built many personal tools like a feed reader, a bank operation
-manager or an IRC client.
+manager or an IRC client (60 000 apps were downloaded this year).
 
 Cozy is based on Node.js and allows realtime interaction between apps. Any app
 can request access to other application data. That way they can communicate
@@ -44,7 +46,7 @@ There are many ways to install Cozy:
 ## Community
 
 We have a vibrant community that will be glad to welcome you. You can share
-with us your thoughts, your feedback, bug reports of your app ideas. 
+with us your thoughts, your feedback, bug reports or your app ideas. 
 
 *NB: The community is composed mainly of French users, but don't be afraid they
 can speak English too.*
