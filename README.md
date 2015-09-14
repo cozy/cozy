@@ -1,10 +1,13 @@
-# Cozy, the App-Based Personal Cloud You Can Host at Home
+# Cozy, Your Digital Home
+
+Cozy is an app-based personal cloud You can host at home.
 
 
 ## Install
 
 * Through Debian repository
-* 
+* Image For Raspberry Pi 2
+* Via Docker 
 * All methods
 
 ## Community
@@ -18,6 +21,10 @@
 * Transifex
 
 ### Developers
+
+The fastest way to learn full stack development with Node.js
+
+### Platform maintenance
 
 * [Bug
   List](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Acozy+label%3Abug+-repo%3Acozy%2Ftodos+-repo%3Acozy%2Fnotes+-repo%3Acozy%2Fcozy-editor+)
