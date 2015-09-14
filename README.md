@@ -37,19 +37,27 @@ There are many ways to install Cozy:
 
 ## Community
 
-We have a vibrant community that will be glad to welcome you. The community
-is composed mainly of French users, but don't be afraid they can speak English
-too.
+We have a vibrant community that will be glad to welcome you. You can share
+with us your thoughts, your feedback, bug reports of your app ideas. 
+
+*NB: The community is composed mainly of French users, but don't be afraid they
+can speak English too.*
 
 * [Forum](https://forum.cozy.io)
 * [Wiki](https://github.com/cozy/cozy-setup/wiki)
 * [Twitter](https://twitter.com/mycozycloud)
+* [Github](https://github.com/cozy)
+* [Labs on Github](https://github.com/cozy-labs)
 * Chat: #cozycloud on irc.freenode.net
 
 
 ### Translators
 
-* Transifex
+Like many free and open source projects, you can contribute by translating 
+the user interface texts. To manage that, we use the Transifex platform. Cozy
+is already translated in English, French, German and Spanish. If you want to
+add your own language, connect with us via our [Transifex
+Dashboard](https://www.transifex.com/organization/cozy)
 
 
 ### Developers
