@@ -47,8 +47,8 @@ There are many ways to install Cozy:
 
 We have a vibrant community that will be glad to welcome you. You can share
 with us, give feedback, report bugs, even share your app ideas. 
-
 *NB: The community is composed mainly of French users, but don't worry, we also speak English.
+
 
 * [Forum](https://forum.cozy.io)
 * [Wiki](https://github.com/cozy/cozy-setup/wiki)
