@@ -1,0 +1,3 @@
+[submodule "cozy-proxy"]
+	path = cozy-proxy
+	url = https://github.com/cozy/cozy-proxy.git
