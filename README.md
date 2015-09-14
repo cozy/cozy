@@ -19,7 +19,7 @@ and share information.
 Website: http://cozy.io
 
 [![Cozy Home screenshot](https://cozy.io/assets/press/screenshots/home_th.png)](https://cozy.io/assets/press/screenshots/home.png)
-[![Cozy Contacts screenshot](https://cozy.io/assets/press/screenshots/contacts_th.png)](https://cozy.io/assets/press/screenshots/contacts.png)
+[![Cozy Contacts screenshot](https://cozy.io/assets/press/screenshots/contacts_t.png)](https://cozy.io/assets/press/screenshots/contacts.png)
 [![Cozy Emails screenshot](https://cozy.io/assets/press/screenshots/emails_th.png)](https://cozy.io/assets/press/screenshots/emails.png)
 [![Cozy Calendar screenshot](https://cozy.io/assets/press/screenshots/calendar_th.png)](https://cozy.io/assets/press/screenshots/calendar.png)
 [![Cozy Files screenshot](https://cozy.io/assets/press/screenshots/files_th.png)](https://cozy.io/assets/press/screenshots/files.png)
@@ -30,7 +30,7 @@ Website: http://cozy.io
 * Ownership of your data and respected privacy
 * Vendor-agnostic synchronization
 * Quick start with Google data importer (contacts and calendars)
-* Playground for developers to build new services around personal data
+* Playground for developers to build new apps around personal data
 
 
 ## Install
