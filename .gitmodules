@@ -1,3 +1,15 @@
 [submodule "cozy-proxy"]
 	path = cozy-proxy
 	url = https://github.com/cozy/cozy-proxy.git
+[submodule "cozy-home"]
+	path = cozy-home
+	url = https://github.com/cozy/cozy-home.git
+[submodule "cozy-controller"]
+	path = cozy-controller
+	url = https://github.com/cozy/cozy-controller.git
+[submodule "cozy-monitor"]
+	path = cozy-monitor
+	url = https://github.com/cozy/cozy-monitor.git
+[submodule "cozy-data-system"]
+	path = cozy-data-system
+	url = https://github.com/cozy/cozy-data-system.git
