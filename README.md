@@ -5,11 +5,15 @@
 Cozy is an app-based personal cloud You can host at home. It allows you to turn
 a cheap hardware like a Raspberry Pi or an online VPS in a powerful app
 platform. It comes with common applications like a contact manager, a calendar,
-a webmail and a filebox. An Android app is provided too so you can sync
-your contacts, calendars and files with your mobile. The community built many
-apps too like a Feed Reader, a bank operation manager or an IRC client.
+a webmail and a filebox. An Android app is provided so you can sync
+your contacts, calendars and files with your mobile. Last but not least, the
+community built many personal tools like a Feed Reader, a bank operation
+manager or an IRC client.
 
-Cozy is based on Node.js and allows realtime interaction between apps. A
+Cozy is based on Node.js and allows realtime interaction between apps. Any app
+can request access to other application data. That way they can communicate
+and share information.
+
 
 ### Main Benefits
 
@@ -43,28 +47,30 @@ There are many ways to install Cozy:
 ### Developers
 
 Building an app for Cozy is the fastest way to learn full stack development
-with Node.js. We propose a complete Tutorial that will teach you how to use
-Express.js and AngularJS to build your first Single Page Application.
+with Node.js. We propose [a complete
+Tutorial](http://cozy.io/en/hack/getting-started/) that will teach you how to
+use Express.js and AngularJS to build your first Single Page Application.
 
 For experimented web developers you can use the frameworks you want. The only
 requirement is to use the [Cozy database driver](https://github.com/cozy/cozydb).
 
-Whatever your skill level is, we propose a [Mentorship Program](https://forum.cozy.io/t/mentorship-program/529), feel free to subscribe to it via 
-the forum.
+Whatever your skill level is, we propose a [Mentorship Program](https://forum.cozy.io/t/mentorship-program/529). 
+A member of the Cozy Team will help you in the process of building your Cozy
+app. Reel free to subscribe to it via the forum.
 
 Benefits for developers:
 
-* Experiment and build quickly prototypes for your next app
 * Learn full-stack development with Node.js
+* Experiment and build quickly prototypes for your next app
+* Avoid the pain of deployment and user administration
 * Fix one of your problem related to personal data
 * Share your app and get feedback from the community
-
 
 
 ### Platform maintenance
 
 
-You will find here every tickets related to the Cozy platform:
+You will find here every open tickets and pull request for the Cozy platform:
 
 * [Bug List](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Acozy+label%3Abug+-repo%3Acozy%2Ftodos+-repo%3Acozy%2Fnotes+-repo%3Acozy%2Fcozy-editor+)
 * [Feature Request List](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Acozy+label%3Aenhancement+-repo%3Acozy%2Ftodos+-repo%3Acozy%2Fnotes+-repo%3Acozy%2Fcozy-editor+)
