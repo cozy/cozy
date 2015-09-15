@@ -78,7 +78,7 @@ For experimented web developers you can use the frameworks you want. The only
 requirement is to use the [Cozy database driver](https://github.com/cozy/cozydb).
 
 Whatever your skill level, we propose a [Mentorship Program](https://forum.cozy.io/t/mentorship-program/529). 
-A member of the Cozy Team will be there to as you build your Cozy app. Reel free to sign up via the forum.
+A member of the Cozy Team will be there to as you build your Cozy app. Feel free to sign up via the forum.
 
 
 #### Benefits for developers
