@@ -8,12 +8,12 @@ Cozy is an app-based personal cloud you can host at home. It allows you to turn
 a low-cost piece of hardware like a Raspberry Pi or an online VPS into a powerful app
 platform. It comes with common applications like a contacts manager, calendar,
 webmail and filebox. An Android app is provided. You can sync
-your contacts, calendars and files with your mobile. Last but not least, the
-community has built a wide range of personal tools like a feed reader, a bank operation
+your contacts, calendars and files with your mobile. Last but not least, the Cozy
+Community has built a wide range of personal tools like a feed reader, a bank operation
 manager or an IRC client (60 000 apps were downloaded this year).
 
 Cozy is based on Node.js and allows realtime interaction between apps. Any app
-can request access to other application data. That way they can communicate
+can request access to other application data. That way apps can communicate
 and share information.
 
 Website: http://cozy.io
@@ -64,7 +64,7 @@ Like many free and open source projects, you can contribute by translating
 the user interface texts. To manage this, we use the Transifex platform. Cozy
 is already translated into English, French, German and Spanish. If you want to
 add your own language, connect with us via our [Transifex
-Dashboard](https://www.transifex.com/organization/cozy)
+Dashboard](https://www.transifex.com/organization/cozy).
 
 
 ### Developers
@@ -86,8 +86,8 @@ A member of the Cozy Team will be there to as you build your Cozy app. Feel free
 * Learn full-stack development with Node.js
 * Experiment and quickly build prototypes for your next app
 * Avoid the pain of deployment and user administration
-* Fix one of your problems related to personal data
-* Share your app and get feedback from the community
+* Give yourself tools that let you control your own data
+* Share your app and get feedback from the Cozy Community
 
 
 #### Connectors
@@ -112,7 +112,7 @@ You will find here every open tickets and pull request for the Cozy platform:
 ## Architecture
 
 Below is a quick overview of the architecture. You can find more details 
-[here](https://cozy.io/en/hack/getting-started/architecture-overview.html)
+[here](https://cozy.io/en/hack/getting-started/architecture-overview.html).
 
 ![Architecture diagram](https://cozy.io/assets/images/architecture-overview.svg)
 
