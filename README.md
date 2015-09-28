@@ -39,7 +39,7 @@ There are many ways to install Cozy:
 
 * [Through Debian repository](https://cozy.io/en/host/install/install-on-debian.html), ([repo](https://github.com/cozy/cozy-debian))
 * [Image For Raspberry Pi 2](https://cozy.io/en/host/install/install-on-raspberry.html)
-* [Via Docker](https://cozy.io/en/host/install/install-on-docker.html), ([repo](https://github.com/cozy/cozy-docker))
+* [Via Docker](https://cozy.io/en/host/install/install-on-docker.html), ([repo](https://github.com/cozy-labs/cozy-docker))
 * [All methods](https://cozy.io/en/)
 
 
