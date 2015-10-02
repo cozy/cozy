@@ -1,6 +1,4 @@
-# Cozy, Your Digital Home
-
-*A personal cloud you can hack, host and delete*
+# Cozy, Own, Centralize and Connect Your Data
 
 ![Cozy Logo](https://raw.githubusercontent.com/cozy/cozy-setup/gh-pages/assets/images/happycloud.png)
 
