@@ -3,8 +3,7 @@
 ![Cozy Logo](https://raw.githubusercontent.com/cozy/cozy-setup/gh-pages/assets/images/happycloud.png)
 
 Cozy is an app-based personal cloud you host at home. It turns a low-cost piece of hardware like a 
-Raspberry Pi or an online VPS into a powerful app platform. It comes with common applications 
-like a contacts manager, calendar, webmail and filebox. An Android app is provided. You can sync
+Raspberry Pi 2 or an online VPS into a powerful app platform. It comes with common applications: a contacts manager, calendar, webmail and filebox. An Android app allows you to sync
 your contacts, calendars and files with your mobile. Last but not least, the Cozy
 Community has built a wide range of personal tools like a feed reader, a bank operation
 manager or an IRC client (67 000 apps were downloaded this year).
