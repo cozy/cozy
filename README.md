@@ -7,7 +7,7 @@ Raspberry Pi or an online VPS into a powerful app platform. It comes with common
 like a contacts manager, calendar, webmail and filebox. An Android app is provided. You can sync
 your contacts, calendars and files with your mobile. Last but not least, the Cozy
 Community has built a wide range of personal tools like a feed reader, a bank operation
-manager or an IRC client (60 000 apps were downloaded this year).
+manager or an IRC client (67 000 apps were downloaded this year).
 
 Cozy is based on Node.js and allows realtime interaction between apps. Any app
 can request access to other application data. That way apps can communicate
