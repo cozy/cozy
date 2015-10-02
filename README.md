@@ -1,4 +1,4 @@
-# Cozy, Own, Centralize and Connect Your Data
+# Cozy - Own, Centralize and Connect Your Data
 
 ![Cozy Logo](https://raw.githubusercontent.com/cozy/cozy-setup/gh-pages/assets/images/happycloud.png)
 
