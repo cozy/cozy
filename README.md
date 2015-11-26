@@ -3,7 +3,7 @@
 ![Cozy Logo](https://raw.githubusercontent.com/cozy/cozy-setup/gh-pages/assets/images/happycloud.png)
 
 Cozy is an app-based personal cloud you can host at home. It allows you to turn
-a cheap hardware like a Raspberry Pi or an online VPS in a powerful app
+a cheap hardware like a Raspberry Pi 2 or an online VPS in a powerful app
 platform. It comes with common applications like a contact manager, a calendar,
 a webmail and a filebox. An Android app is provided. You can sync
 your contacts, calendars and files with your mobile. Last but not least, the
@@ -29,19 +29,19 @@ Website: http://cozy.io
 
 There are many ways to install Cozy:
 
-* [Through Debian repository](https://cozy.io/en/host/install/install-on-debian.html), ([repo](https://github.com/cozy/cozy-debian))
-* [Image For Raspberry Pi 2](https://cozy.io/en/host/install/install-on-raspberry.html)
-* [Via Docker](https://cozy.io/en/host/install/install-on-docker.html), ([repo](https://github.com/cozy/cozy-docker))
-* [All methods](https://cozy.io/en/)
+* [Through the Debian repository](https://cozy.io/en/host/install/install-on-debian.html) ([repo](https://github.com/cozy/cozy-debian))
+* Clone the [Image For Raspberry Pi 2](https://cozy.io/en/host/install/install-on-raspberry.html)
+* [Via Docker](https://cozy.io/en/host/install/install-on-docker.html) ([repo](https://github.com/cozy/cozy-docker))
+* Or read the [full install documentation](https://cozy.io/en/)
 
 
 ## Community
 
 We have a vibrant community that will be glad to welcome you. You can share
-with us your thoughts, your feedback, bug reports of your app ideas. 
+with us your thoughts, your feedback, bug reports or app ideas. 
 
 *NB: The community is composed mainly of French users, but don't be afraid they
-can speak English too.*
+can speak English too!*
 
 * [Forum](https://forum.cozy.io)
 * [Wiki](https://github.com/cozy/cozy-setup/wiki)
@@ -57,7 +57,7 @@ Like many free and open source projects, you can contribute by translating
 the user interface texts. To manage that, we use the Transifex platform. Cozy
 is already translated in English, French, German and Spanish. If you want to
 add your own language, connect with us via our [Transifex
-Dashboard](https://www.transifex.com/organization/cozy)
+Dashboard](https://www.transifex.com/organization/cozy)!
 
 
 ### Developers
