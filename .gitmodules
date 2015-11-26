@@ -13,9 +13,6 @@
 [submodule "cozy-data-system"]
 	path = cozy-data-system
 	url = https://github.com/cozy/cozy-data-system.git
-[submodule "cozy-data-indexer"]
-	path = cozy-data-indexer
-	url = https://github.com/cozy/cozy-data-indexer.git
 [submodule "cozy-registry"]
 	path = cozy-registry
 	url = https://github.com/cozy/cozy-registry.git
