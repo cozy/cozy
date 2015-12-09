@@ -1,4 +1,4 @@
-# Cozy - Store, sync, and share your data just the way you want it
+# Cozy - Simple, Personal, Yours
 
 ![Cozy Logo](https://raw.githubusercontent.com/cozy/cozy-setup/gh-pages/assets/images/happycloud.png)
 
