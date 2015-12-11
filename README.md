@@ -1,4 +1,4 @@
-# Cozy - Simple, Personal, Yours
+# Cozy - Simple, Safe, Yours
 
 ![Cozy Logo](https://raw.githubusercontent.com/cozy/cozy-setup/gh-pages/assets/images/happycloud.png)
 
