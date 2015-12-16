@@ -16,11 +16,11 @@ and share information.
 
 Website: http://cozy.io
 
-[![Cozy Home screenshot](https://docs.cozy.io/assets/press/screenshots/home_th.png)](https://cozy.io/assets/press/screenshots/home.png)
-[![Cozy Contacts screenshot](https://docs.cozy.io/assets/press/screenshots/contacts_th.png)](https://cozy.io/assets/press/screenshots/contacts.png)
-[![Cozy Emails screenshot](https://docs.cozy.io/assets/press/screenshots/emails_th.png)](https://cozy.io/assets/press/screenshots/emails.png)
-[![Cozy Calendar screenshot](https://docs.cozy.io/assets/press/screenshots/calendar_th.png)](https://cozy.io/assets/press/screenshots/calendar.png)
-[![Cozy Files screenshot](https://docs.cozy.io/assets/press/screenshots/files_th.png)](https://cozy.io/assets/press/screenshots/files.png)
+[![Cozy Home screenshot](https://docs.cozy.io/assets/press/screenshots/home_th.png)](https://docs.cozy.io/assets/press/screenshots/home.png)
+[![Cozy Contacts screenshot](https://docs.cozy.io/assets/press/screenshots/contacts_th.png)](https://docs.cozy.io/assets/press/screenshots/contacts.png)
+[![Cozy Emails screenshot](https://docs.cozy.io/assets/press/screenshots/emails_th.png)](https://docs.cozy.io/assets/press/screenshots/emails.png)
+[![Cozy Calendar screenshot](https://docs.cozy.io/assets/press/screenshots/calendar_th.png)](https://docs.cozy.io/assets/press/screenshots/calendar.png)
+[![Cozy Files screenshot](https://docs.cozy.io/assets/press/screenshots/files_th.png)](https://docs.cozy.io/assets/press/screenshots/files.png)
 
 ### Main Benefits
 
