@@ -8,7 +8,7 @@ platform. It comes with common applications: a contacts manager, a calendar, a
 webmail and a filebox. An Android app allows you to sync your contacts,
 calendars and files with your mobile. Last but not least, the Cozy Community
 has built many personal tools like a feed reader, a bank operation
-manager or an IRC client (80 000 apps were downloaded this year).
+manager or an IRC client (100 000 apps were downloaded in 2015).
 
 Cozy is based on Node.js and allows realtime interaction between apps. Any app
 can request access to other application data. That way apps can communicate
