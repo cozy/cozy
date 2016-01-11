@@ -113,7 +113,7 @@ You will find here every open tickets and pull request for the Cozy platform:
 Below is a quick overview of the architecture. You can find more details 
 [here](https://cozy.io/en/hack/getting-started/architecture-overview.html).
 
-![Architecture diagram](https://cozy.io/assets/images/architecture-overview.svg)
+![Architecture diagram](https://docs.cozy.io/assets/images/architecture-overview.svg)
 
 
 ## License
