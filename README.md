@@ -14,7 +14,7 @@ Cozy is based on Node.js and allows realtime interaction between apps. Any app
 can request access to other application data. That way apps can communicate
 and share information.
 
-Website: http://cozy.io
+Website: https://cozy.io
 
 [![Cozy Home screenshot](https://docs.cozy.io/assets/press/screenshots/home_th.png)](https://docs.cozy.io/assets/press/screenshots/home.png)
 [![Cozy Contacts screenshot](https://docs.cozy.io/assets/press/screenshots/contacts_th.png)](https://docs.cozy.io/assets/press/screenshots/contacts.png)
@@ -35,10 +35,10 @@ Website: http://cozy.io
 
 There are many ways to install Cozy:
 
-* [Through Debian repository](https://cozy.io/en/host/install/install-on-debian.html) ([repo](https://github.com/cozy/cozy-debian))
-* [Via the Raspberry Pi 2 Image](https://cozy.io/en/host/install/install-on-raspberry.html)
-* [Via Docker](https://cozy.io/en/host/install/install-on-docker.html) ([repo](https://github.com/cozy-labs/cozy-docker))
-* [All methods](https://cozy.io/en/)
+* [Through Debian repository](https://docs.cozy.io/en/host/install/install-on-debian.html) ([repo](https://github.com/cozy/cozy-debian))
+* [Via the Raspberry Pi 2 Image](https://docs.cozy.io/en/host/install/install-on-raspberry.html)
+* [Via Docker](https://docs.cozy.io/en/host/install/install-on-docker.html) ([repo](https://github.com/cozy-labs/cozy-docker))
+* [All methods](https://docs.cozy.io/en/host/install/)
 
 
 ## Community
@@ -70,7 +70,7 @@ Dashboard](https://www.transifex.com/organization/cozy)!
 
 Building an app for Cozy is the fastest way to learn full stack development
 with Node.js. We propose [a complete
-Tutorial](http://cozy.io/en/hack/getting-started/) that will teach you how to
+Tutorial](https://dev.cozy.io/) that will teach you how to
 use Express.js and AngularJS to build your first Single Page Application.
 
 For experimented web developers you can use the frameworks you want. The only
@@ -111,7 +111,7 @@ You will find here every open tickets and pull request for the Cozy platform:
 ## Architecture
 
 Below is a quick overview of the architecture. You can find more details 
-[here](https://cozy.io/en/hack/getting-started/architecture-overview.html).
+[here](https://docs.cozy.io/en/hack/getting-started/architecture-overview.html).
 
 ![Architecture diagram](https://docs.cozy.io/assets/images/architecture-overview.svg)
 
