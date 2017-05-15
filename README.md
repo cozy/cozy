@@ -2,6 +2,8 @@
 
 ![Cozy Logo](https://raw.githubusercontent.com/cozy/cozy-setup/gh-pages/assets/images/happycloud.png)
 
+:warning: __This repository is no longer maintained. It was the first version of the Cozy personal cloud server. We are actively developping a new, improved, version: Cozy V3. You can follow the development [here](https://github.com/cozy/cozy-stack), to test it and report bugs.__
+
 Cozy is an app-based personal cloud you host at home. It turns a low-cost piece
 of hardware like a Raspberry Pi 2 or an online VPS into a powerful app
 platform. It comes with common applications: a contacts manager, a calendar, a
